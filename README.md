@@ -11,9 +11,4 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/RMBaez/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
-
-[<img align="left" alt="Roberto | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-
-[linkedin]: https://linkedin.com/in/Roberto
+https://www.linkedin.com/in/roberto-baez-4241a529b/
