@@ -2,13 +2,9 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/RMBaez/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/RMBaez/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/RMBaez/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/RMBaez/azure-network-protocols)
+  - [Created, and configured a Microsoft Azure Database for MySQL server and database](https://github.com/RMBaez/configure-database)
+  - [Created a Virtual Machine in Azure to deploy a web server](https://github.com/RMBaez/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 https://www.linkedin.com/in/roberto-baez-4241a529b/
