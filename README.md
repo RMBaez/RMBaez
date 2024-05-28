@@ -5,6 +5,7 @@
 - <b>Microsoft Azure</b>
   - [Created, and configured a Microsoft Azure Database for MySQL server and database](https://github.com/RMBaez/configure-database)
   - [Created a Virtual Machine in Azure to deploy a web server](https://github.com/RMBaez/VM-Web-Server-Deployment)
+  - [Create and manage groups](https://github.com/RMBaez/Manage-Groups)
 
 <h2>🤳Connect with me:</h2>
 https://www.linkedin.com/in/roberto-baez-4241a529b/
