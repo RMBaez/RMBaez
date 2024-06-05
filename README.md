@@ -8,6 +8,7 @@
   - [Create and Manage Groups](https://github.com/RMBaez/Manage-Groups)
   - [Enable Self-Service Password Reset](https://github.com/RMBaez/SSPR)
   - [Implement and Test Multifactor Authentication](https://github.com/RMBaez/MFA)
+  - [Report Writing Exercise](https://github.com/RMBaez/Report-Writing)
 
 <h2>🤳Connect with me:</h2>
 https://www.linkedin.com/in/roberto-baez-4241a529b/
