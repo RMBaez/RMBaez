@@ -8,6 +8,8 @@
   - [Create and Manage Groups](https://github.com/RMBaez/Manage-Groups)
   - [Enable Self-Service Password Reset](https://github.com/RMBaez/SSPR)
   - [Implement and Test Multifactor Authentication](https://github.com/RMBaez/MFA)
+
+ - <b>Blue Team Exercises</b>
   - [Report Writing Exercise](https://github.com/RMBaez/Report-Writing)
   - [Manual Artifact Extraction](https://github.com/RMBaez/Artifact-Extraction)
 
