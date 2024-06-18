@@ -12,6 +12,7 @@
  - <b>Blue Team Exercises</b>
     - [Report Writing Exercise](https://github.com/RMBaez/Report-Writing)
     - [Manual Artifact Extraction](https://github.com/RMBaez/Artifact-Extraction)
+    - [Investigating an Attachment](https://github.com/RMBaez/Investigating-Attachment)
 
 <h2>🤳Connect with me:</h2>
 https://www.linkedin.com/in/roberto-baez-4241a529b/
