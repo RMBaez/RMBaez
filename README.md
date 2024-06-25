@@ -9,7 +9,7 @@
     - [Enable Self-Service Password Reset](https://github.com/RMBaez/SSPR)
     - [Implement and Test Multifactor Authentication](https://github.com/RMBaez/MFA)
 
- - <b>Blue Team Exercises</b>
+ - <b>Phishing Analysis</b>
     - [Report Writing Exercise](https://github.com/RMBaez/Report-Writing)
     - [Manual Artifact Extraction](https://github.com/RMBaez/Artifact-Extraction)
     - [Phishing Response Challenge ](https://github.com/RMBaez/Phishing-Response-Challenge)
