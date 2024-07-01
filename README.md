@@ -13,7 +13,6 @@
     - [Report Writing Exercise](https://github.com/RMBaez/Report-Writing)
     - [Manual Artifact Extraction](https://github.com/RMBaez/Artifact-Extraction)
     - [Phishing Response Challenge ](https://github.com/RMBaez/Phishing-Response-Challenge)
-
-
-<h2>🤳Connect with me:</h2>
-https://www.linkedin.com/in/roberto-baez-4241a529b/
+  
+ - <b>SIEM</b>
+ 
