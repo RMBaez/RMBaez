@@ -9,3 +9,5 @@
 - [Investigating With Splunk](https://github.com/RMBaez/Investigating-With-Splunk/blob/main/README.md)
 - [Splunk_Conti](https://github.com/RMBaez/Conti/blob/main/README.md)
 - [Splunk_Benign](https://github.com/RMBaez/Benign/blob/main/README.md)
+- [New Hire Old Artifacts]
+- [PS Eclipse]
