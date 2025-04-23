@@ -10,4 +10,4 @@
 - [Splunk_Conti](https://github.com/RMBaez/Conti/blob/main/README.md)
 - [Splunk_Benign](https://github.com/RMBaez/Benign/blob/main/README.md)
 - [New Hire Old Artifacts](https://github.com/RMBaez/New-Hire-Old-Artifacts/blob/main/README.md)
-- [PS Eclipse]
+- [PS Eclipse](https://github.com/RMBaez/PS-Eclipse/blob/main/README.md)
